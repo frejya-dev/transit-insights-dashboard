@@ -1,0 +1,50 @@
+[
+  {
+    "month": "Jan",
+    "ridership": 21715430
+  },
+  {
+    "month": "Feb",
+    "ridership": 20486912
+  },
+  {
+    "month": "Mar",
+    "ridership": 23248110
+  },
+  {
+    "month": "Apr",
+    "ridership": 22673450
+  },
+  {
+    "month": "May",
+    "ridership": 23890220
+  },
+  {
+    "month": "Jun",
+    "ridership": 24133890
+  },
+  {
+    "month": "Jul",
+    "ridership": 24755100
+  },
+  {
+    "month": "Aug",
+    "ridership": 25218740
+  },
+  {
+    "month": "Sep",
+    "ridership": 23976420
+  },
+  {
+    "month": "Oct",
+    "ridership": 24899210
+  },
+  {
+    "month": "Nov",
+    "ridership": 23167880
+  },
+  {
+    "month": "Dec",
+    "ridership": 22490560
+  }
+]
