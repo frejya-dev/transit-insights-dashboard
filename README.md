@@ -1,22 +1,26 @@
-# Transit Ridership Analytics Dashboard
+# Transit Insights Dashboard
 
-A responsive frontend dashboard that visualizes monthly LA Metro ridership trends using HTML, CSS, JavaScript, and Chart.js.
+Transit Insights Dashboard is a responsive frontend dashboard that visualizes monthly LA Metro ridership trends using HTML, CSS, JavaScript, and Chart.js.
 
-## Dashboard Preview
+I wanted to build a dashboard that focused on presenting real data in a clear, interactive way while practicing responsive layouts, dynamic charts, and user-friendly filtering.
 
-![Dashboard Preview](images/dashboard-preview.png)
+## Live Demo
+
+[View Live Demo](https://frejya-dev.github.io/transit-insights-dashboard/)
+
+![Transit Insights Dashboard](./images/dashboard-preview.png)
 
 ## Features
 
 - Interactive ridership trend visualization with Chart.js
-- Quarter filters (All, Q1, Q2, Q3, Q4)
+- Quarter filters (Q1, Q2, Q3, Q4)
 - Dynamic KPI cards
 - Monthly performance table
 - Automatically generated insights
 - Responsive dashboard layout
-- Data loaded dynamically from a JSON file
+- Data loaded from a local JSON file
 
-## Technologies
+## Built With
 
 - HTML5
 - CSS3
@@ -24,49 +28,21 @@ A responsive frontend dashboard that visualizes monthly LA Metro ridership trend
 - Chart.js
 - JSON
 
-## Data Source
+## Why I Built This
 
-Monthly ridership data from LA Metro Open Data.
+This project gave me an opportunity to practice building a larger frontend interface using vanilla JavaScript. I focused on organizing data, updating the dashboard dynamically, and presenting information in a way that's easy to explore.
 
-## Project Structure
+## Skills Practiced
 
-```text
-transit-insights-dashboard/
-├── css/
-│   └── styles.css
-├── data/
-│   └── ridership.json
-├── images/
-│   └── dashboard-preview.png
-├── js/
-│   ├── app.js
-│   └── charts.js
-├── index.html
-└── README.md
-```
+- DOM manipulation
+- Working with JSON data
+- Interactive filtering
+- Data visualization with Chart.js
+- Responsive layouts with CSS
+- Reusable JavaScript functions
 
-## What I Learned
+---
 
-This project helped strengthen my experience with:
+Monthly ridership data is based on LA Metro Open Data.
 
-- Building interactive dashboards
-- Processing and visualizing JSON data
-- Creating reusable JavaScript functions
-- Working with the Fetch API
-- Responsive frontend development
-- Presenting data with Chart.js
-- Dashboard UI and UX design
-
-## Future Improvements
-
-- Connect to a live API instead of a local JSON file
-- Additional filtering options
-- Dark mode
-- Export charts as images
-- Year-over-year comparisons
-
-## Author
-
-**Frejya Lindh**
-
-Web Developer | Frontend Development | Data Visualization
+Built by **Frejya Lindh** as part of my frontend development portfolio.
